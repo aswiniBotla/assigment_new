@@ -1,0 +1,20 @@
+.sub {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.para {
+  margin: 15px;
+}
+.character {
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.character-heading {
+  font-size: 25px;
+}
+.character-paragraph {
+  font-size: small;
+}
